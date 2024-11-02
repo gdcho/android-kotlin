@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab7DavidCho</string>
+    <string-array name="first">
+        <item>ahsoka</item>
+        <item>bb8</item>
+        <item>c3po</item>
+    </string-array>
+    <string-array name="second">
+        <item>chewbacca</item>
+        <item>grogu</item>
+        <item>jabba</item>
+
+    </string-array>
+    <string-array name="third">
+        <item>kilo</item>
+        <item>trooper</item>
+        <item>yoda</item>
+    </string-array>
+</resources>
